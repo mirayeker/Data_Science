@@ -61,9 +61,9 @@ Peki neye göre sıralıyoruz?
 
 ### Üst-Alt Farkı Skoru (Up-Down Difference Score):
 
-# Review 1: 600 up 400 down total 1000
+- Review 1: 600 up 400 down total 1000
 
-# Review 2: 5500 up 4500 down total 10000
+- Review 2: 5500 up 4500 down total 10000
 
 <aside>
 💡 Up-Down Diff Score = (up ratings) − (down ratings)
