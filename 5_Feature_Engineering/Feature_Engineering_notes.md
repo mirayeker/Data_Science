@@ -139,13 +139,13 @@ Rare encoding'in avantajları şunlar olabilir:
 
 **StandardScaler:** Klasik standartlaştırma. Ortalamayı çıkar, standart sapmaya böl. z = (x - u) / s
 
-**RobustScaler:** Medyanı çıkar iqr'a böl (Aykırı değerlere göre daha dayanıklıdır.)
+**RobustScaler:** Medyanı çıkar iqr'a böl (Aykırı değerlere StandardScaler'e göre daha dayanıklıdır.)
 
 **MinMaxScaler:** Verilen 2 değer arasında değişken dönüşümü
 
 ---
 
-## Feature Extraction (Özellik Çıkarımı)
+
 
 Ham veriden değşken üretmek. 
 
