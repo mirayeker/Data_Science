@@ -145,7 +145,7 @@ Rare encoding'in avantajları şunlar olabilir:
 
 ---
 
-## Feature Extraction (Özellik Çıkarımı)
+
 
 Ham veriden değşken üretmek. 
 
